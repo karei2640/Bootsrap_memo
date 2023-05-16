@@ -1,0 +1,13 @@
+import "channels"
+
+import "jquery";
+import "popper.js";
+import "bootstrap";
+import "../stylesheets/application" 
+import '@fortawesome/fontawesome-free/js/all'
+@use '~bootstrap/scss/bootstrap';
+@use '~@fortawesome/fontawesome-free/scss/fontawesome';
+
+Rails.start()
+Turbolinks.start()
+ActiveStorage.start()

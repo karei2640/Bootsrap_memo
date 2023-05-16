@@ -1,0 +1,2 @@
+module BotansHelper
+end

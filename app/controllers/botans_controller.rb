@@ -3,6 +3,10 @@ class BotansController < ApplicationController
   
   end
   
+  def navi
+  
+  end
+  
   def card
   
   end

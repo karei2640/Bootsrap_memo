@@ -7,6 +7,18 @@ class BotansController < ApplicationController
   
   end
   
+  def glid
+  
+  end
+  
+  def toron
+      
+  end
+  
+  def responsive
+      
+  end
+  
   def card
   
   end

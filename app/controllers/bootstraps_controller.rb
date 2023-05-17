@@ -1,4 +1,4 @@
-class BotansController < ApplicationController
+class BootstrapsController < ApplicationController
   def top
   
   end
@@ -21,6 +21,10 @@ class BotansController < ApplicationController
   
   def card
   
+  end
+  
+  def form
+    
   end
   
 end
